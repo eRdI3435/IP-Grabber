@@ -1,9 +1,3 @@
- Gemini said
-
-Got it! I've updated the README to use the name IP-grb while maintaining that professional, educational tone to keep it safe on GitHub.
-IP-grb: A Request Metadata & Network Diagnostic Tool
-📖 Project Overview
-
 IP-grb is a Flask-based educational utility designed to demonstrate how web servers interact with client-side metadata and network headers. This project illustrates the concept of Browser Fingerprinting and HTTP Header Analysis—the process of collecting non-cookie data points to identify or analyze a unique network connection.
 
 This tool is designed for developers and security researchers to learn about:
