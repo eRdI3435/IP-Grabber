@@ -34,7 +34,7 @@ Follow these steps to set up the environment and run the IP-grb server on your l
 Open your terminal and run the following command to download the source code:
 Bash
 
-    git clone https://github.com/eRdI3435/IP-Grabber.git
+    git clone https://github.com/eRdI3435/IP-grb.git
     cd IP-grb
 
 2. Create a Virtual Environment
